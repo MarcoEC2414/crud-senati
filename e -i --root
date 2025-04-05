@@ -1,0 +1,42 @@
+[33mcommit 152593d703b55ed92bc4c268c200a0a79cc80ff6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 65698c8 d6fa4d9
+Author: MARCO <decuxop@gmail.com>
+Date:   Fri Apr 4 19:14:20 2025 -0500
+
+    Concluir la fusión y agregar README.md
+
+[33mcommit 65698c839c79e48714d1822d1b97136033fb6766[m
+Author: MARCO <decuxop@gmail.com>
+Date:   Fri Apr 4 18:50:47 2025 -0500
+
+    Descripción de los cambios realizados
+
+[33mcommit d6fa4d9fa0ea1a317402c0682189a8cdf2ed983d[m
+Author: MarcoEC2414 <decuxop@gmail.com>
+Date:   Fri Apr 4 18:34:33 2025 -0500
+
+    Initial commit
+
+[33mcommit ab2364faf8765152fe0917a338c6ed96ac4279b5[m
+Author: Emanuel <emanuelgutierrez595@gmail.com>
+Date:   Fri Apr 4 10:40:20 2025 -0500
+
+    Mi cuarto commit p
+
+[33mcommit efa78c17cdc6ddf3aea8ae4bc405af2a3b4637d8[m
+Author: Emanuel <emanuelgutierrez595@gmail.com>
+Date:   Mon Mar 31 10:40:23 2025 -0500
+
+    Creando mis 3 commits
+
+[33mcommit 61700ccacd4977f9d886ac9ddc1f83a8e4582463[m
+Author: Emanuel <emanuelgutierrez595@gmail.com>
+Date:   Mon Mar 31 09:06:35 2025 -0500
+
+    Crear la clase conexion y su metodo conectar
+
+[33mcommit ac0c5c010f4692669ce4f8306e9c79555f0343e2[m
+Author: Emanuel <emanuelgutierrez595@gmail.com>
+Date:   Mon Mar 31 08:14:04 2025 -0500
+
+    Mi primer commit
